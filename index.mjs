@@ -12,7 +12,7 @@ import 'dotenv/config'
 
 let port = parseInt(process.env.PORT || "");
 
-if (isNaN(port)) port = 3000;
+if (isNaN(port)) port = 1234;
 
 const bare = createBareServer("/bare/");
 const app = express();
