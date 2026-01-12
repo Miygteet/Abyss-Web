@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/AbyssServices/Abyss-Web/main/.github/sources/branding.png">
-    <p>Abyss is an advanced proxy service that provides modern unblocking for all users who use it.</p>
+    <p>Abyss is a alternative browser for working web flows.</p>
 </div>
 
 ![inpreview](https://cdn.paxton.rip/B0TnxDf0no00/direct.png)
